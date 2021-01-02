@@ -1,0 +1,2 @@
+dsr: dsr.cpp
+	g++ -std=c++11 -o dsr dsr.cpp
